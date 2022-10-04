@@ -1,0 +1,15 @@
+{
+  "name": "jackson-hewitt-loans-2023",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Jackson Hewitt Loans 2023 Online Payday Loans Online No Credit Check Instant Approval",
+  "keywords": [
+    "Jackson Hewitt Loans 2023",
+    "Jackson Hewitt Loan 2023"
+  ],
+  "repository": "https://github.com/pdlonline/jackson-hewitt-loans-2023",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
